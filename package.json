@@ -1,0 +1,16 @@
+{
+	"name": "doge-queue",
+	"description": "A simple callback-based queue",
+	"version": "1.0.0",
+	"main": "lib/index.js",
+	"scripts": {
+		"build": "npx nslibmgr make",
+		"test": "npx nslibmgr test"
+	},
+	"author": "Prokop Schield",
+	"license": "GPL-3.0-or-later",
+	"devDependencies": {
+		"@types/node": ">=14"
+	},
+	"keywords": []
+}
